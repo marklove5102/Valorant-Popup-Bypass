@@ -5,7 +5,7 @@ An example on how you can popup the error "VAN:RESTRICTION" on Valorant. Educati
 You have basic loader protection and aswell keyauth implemented.
 
 # Is this detected?
-No, you'll just get kicked after one game. Press F2 and restart the process.
+Yes, you'll get kicked/temp banned after one game. Press F2 and restart the process.
 
 # How to use?
 1. Download the .zip file.
